@@ -41,3 +41,8 @@ Successfully built a fully functional end-to-end pipeline in less than 500 lines
 Integrated machine learning with web development to deploy a predictive model as an API.
 Demonstrated knowledge of Python, Flask, and RESTful API principles in the implementation.
 This project serves as a foundation for future data science applications where models are deployed for real-world usage, emphasizing the importance of making machine learning models accessible through APIs.
+
+![image](https://github.com/user-attachments/assets/568fb846-10b8-49d8-9f18-7eda4f8046ae)
+![image](https://github.com/user-attachments/assets/e9e464b2-65fb-429c-a720-6a76b9ccc491)
+![image](https://github.com/user-attachments/assets/e21c8834-5652-42ca-b2d1-591ac71d49ca)
+![image](https://github.com/user-attachments/assets/7f465f88-eefb-42c6-a392-2adb3c97aef1)
